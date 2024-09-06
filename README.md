@@ -14,7 +14,7 @@ Desenvolvido entre abril e junho de 2024 no Grupo de Estudos em Ciências de Dad
 - Identifica e separa variáveis quantitativas e qualitativas.
 - Verifica a presença de valores faltantes.
 - Conta o número de valores únicos para cada variável.
-- 
+  
 ## Análise Descritiva:
 - Gera estatísticas descritivas básicas, incluindo média, mediana, desvio padrão, entre outros.
   
@@ -32,14 +32,14 @@ Desenvolvido entre abril e junho de 2024 no Grupo de Estudos em Ciências de Dad
 - Gera uma tabela cruzada e um gráfico de barras empilhadas para a relação entre bairro e método de venda.
 
 # Requisitos
-- Certifique-se de que seu arquivo csv está disponível no caminho especificado
+- Confira que seu arquivo csv está disponível no caminho especificado
 ## Bibliotecas:
 - pandas: Para manipulação e análise de dados.
 - matplotlib: Para visualizações gráficas.
 - scipy: Para cálculos estatísticos.
 
 # Status do Projeto
-O projeto não foi concluído, pois era apenas para aprendizado inicial
+- O projeto não foi concluído, pois era apenas para aprendizado inicial
 
 # Próximos Passos:
 
