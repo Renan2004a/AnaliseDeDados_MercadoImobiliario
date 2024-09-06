@@ -30,3 +30,19 @@ Desenvolvido entre abril e junho de 2024 no Grupo de Estudos em Ciências de Dad
 - Calcula e exibe a moda para várias variáveis qualitativas.
 - Plota a frequência dos bairros e um gráfico de barras para os 10 bairros mais frequentes.
 - Gera uma tabela cruzada e um gráfico de barras empilhadas para a relação entre bairro e método de venda.
+
+# Requisitos
+- Certifique-se de que seu arquivo csv está disponível no caminho especificado
+## Bibliotecas:
+- pandas: Para manipulação e análise de dados.
+- matplotlib: Para visualizações gráficas.
+- scipy: Para cálculos estatísticos.
+
+# Status do Projeto
+O projeto não foi concluído, pois era apenas para aprendizado inicial
+
+# Próximos Passos:
+
+- Definir as variáveis mais importantes para a análise.
+- Ajustar as análises já realizadas.
+- Aplicar técnicas de machine learning para encontrar a resposta para a pergunta central do projeto.
