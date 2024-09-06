@@ -1,6 +1,6 @@
 # Análise De Dados - Mercado Imobiliário
-Este notebook realiza uma análise abrangente dos dados de imóveis com o objetivo de responder à seguinte pergunta: Qual o preço seria justo eu pagar de aluguel em cada bairro?
-Desenvolvido entre abril e junho de 2024 no Grupo de Estudos em Ciências de Dados da UFLA, o projeto inclui várias análises estatísticas e visualizações para entender os preços de aluguel em diferentes bairros e identificar padrões e tendências.
+- Este notebook realiza uma análise abrangente dos dados de imóveis com o objetivo de responder à seguinte pergunta: Qual o preço seria justo eu pagar de aluguel em cada bairro?
+- Desenvolvido entre abril e junho de 2024 no Grupo de Estudos em Ciências de Dados da UFLA, o projeto inclui várias análises estatísticas e visualizações para entender os preços de aluguel em diferentes bairros e identificar padrões e tendências.
 
 # Funcionalidades
 ## Carregamento e Exibição de Dados:
